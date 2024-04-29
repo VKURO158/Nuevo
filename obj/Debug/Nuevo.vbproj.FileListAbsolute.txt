@@ -1,0 +1,11 @@
+C:\Users\KURO\source\repos\Nuevo\bin\Debug\Nuevo.exe.config
+C:\Users\KURO\source\repos\Nuevo\bin\Debug\Nuevo.exe
+C:\Users\KURO\source\repos\Nuevo\bin\Debug\Nuevo.pdb
+C:\Users\KURO\source\repos\Nuevo\bin\Debug\Nuevo.xml
+C:\Users\KURO\source\repos\Nuevo\obj\Debug\Nuevo.vbproj.AssemblyReference.cache
+C:\Users\KURO\source\repos\Nuevo\obj\Debug\Nuevo.Resources.resources
+C:\Users\KURO\source\repos\Nuevo\obj\Debug\Nuevo.vbproj.GenerateResource.cache
+C:\Users\KURO\source\repos\Nuevo\obj\Debug\Nuevo.vbproj.CoreCompileInputs.cache
+C:\Users\KURO\source\repos\Nuevo\obj\Debug\Nuevo.exe
+C:\Users\KURO\source\repos\Nuevo\obj\Debug\Nuevo.xml
+C:\Users\KURO\source\repos\Nuevo\obj\Debug\Nuevo.pdb
